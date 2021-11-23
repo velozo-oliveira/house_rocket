@@ -1,5 +1,5 @@
 # House Rocket
-![alt text](https://github.com/velozo-oliveira/house_rocket/blob/main/real_estate_1.jpg?raw=true)
+![alt text](https://github.com/velozo-oliveira/house_rocket/blob/main/real_estate1.jpg?raw=true)
 
 ## 1.1 - Description
 **House Rocket** is a fictional company looking for investment opportunities in the real estate market.
