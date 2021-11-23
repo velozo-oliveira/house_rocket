@@ -1,5 +1,5 @@
 # House Rocket
-1.1 - Description
+## 1.1 - Description
 
 House Rocket is a technology company (fictional) interested in digital innovations to help them buy and sell real estate.
 
