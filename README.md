@@ -64,7 +64,7 @@ The **season** is the decisive variable for the selling of the properties.
 * Variable transformation
 * Data cleaning
 
-### Step 3. Exploratory data analysis
+### Step 3. Exploratory Data Analysis
 * Explore the data to find insights for the business team
 * Build, deploy and run an app where the House Rocket CEO can do the analyses by himself reviewing the company's portfolio. 
 
@@ -77,7 +77,7 @@ Click here to launch the app: [House Rocket](https://analysis-dashboard-rocket.h
 ### Step 4. Hypotheses Testing
 * Discover insights and trends and communicate the findings to the business team.
 
-### Step 5. Business solutions
+### Step 5. Business Solutions
 * Purchase Recommendation Report 
 
 Group the homes by area (zip code). Calculate the median price within each area. Include in the report homes that are below the median price for each area and that are in good condition. The report can be found here: [Link]
