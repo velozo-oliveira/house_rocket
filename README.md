@@ -66,7 +66,7 @@ The assumptions about the business problem accepted in this project are as follo
 
 ### Step 3. Exploratory Data Analysis
 * Explore the data to find insights for the business team
-* Build, deploy and run an app where the House Rocket CEO can do the analyses by himself reviewing the company's portfolio. 
+* Build, deploy and run a cloud application where the House Rocket CEO can do the analyses by himself reviewing the company's portfolio. 
 
 The app presents descriptive tables, graphs and maps with an interactive user interface. With the available filters, the CEO can select the data to be shown in tables and graphs.
 
