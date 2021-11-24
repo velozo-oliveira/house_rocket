@@ -87,3 +87,24 @@ Group the homes by area (zip code). Calculate the median price within each area.
 Create a report listing all properties with a recommended sales price for each one. Group the homes by area (zip code) and by seasons (summer, winter, and so on). Calculate the median price within each area and season. The report can be found here: [Link]
 
 ### Step 6. Conclusions
+
+### 6. Hypotheses mindmap
+Hypothesis 01: Properties that are waterfront are, in average, 30% more expensive.
+
+Hypothesis 02: Properties built before 1955 are, in average, 50% less expensive.
+
+Hypothesis 03: Properties without basement have a sqrt_lot 50% bigger than the ones with basement.
+
+Hypothesis 04: Properties with higher number of bedrooms are, in average, 10% more expensive.
+
+Hypothesis 05: Properties that were never renovated are, in average, 20% less expensive.
+
+Hypothesis 06: Older properties that were never renovated are 40% less expensive.
+
+Hypothesis 07: Properties that were renovated recently are 10% more expensive.
+
+Hypothesis 08: Properties in bad condition but that are waterfront, are 10% more expensive.
+
+Hypothesis 09: The YoY (Year over Year) growth of the price of the properties is of 10%.
+
+Hypothesis 10: The MoM (Month over Month) growth of the price of the properties with 3 bathrooms is 15%.
