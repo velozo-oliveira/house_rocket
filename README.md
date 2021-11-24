@@ -88,7 +88,7 @@ Create a report listing all properties with a recommended sales price for each o
 
 ### Step 6. Conclusions
 
-### 6. Hypotheses mindmap
+## 6. Hypothesis Mindmap
 *Hypothesis 01*: Properties that are waterfront are, in average, 30% more expensive.
 
 *Hypothesis 02*: Properties built before 1955 are, in average, 50% less expensive.
