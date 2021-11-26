@@ -50,8 +50,8 @@ Below is a breakdown of the attributes:
 The assumptions about the business problem accepted in this project are as follow:
 
 * Values of 0 in attribute **yr_renovated** are buildings that were not renovated.
-* **Recent renovations** were considered to be the ones made after, and including, year 2000.
-* The attribute **price** represents the price that can potentially be bought by the House Rocket company.
+* The duplicate ID values were removed and only considered the most recent buy.
+* The attribute **price** represents the price that can potentially be bought by House Rocket Company.
 * The **location** and **condition** of the property is key for the decision on wether to buy it or not.
 * The **season** is the decisive variable for the selling of the properties.
 
