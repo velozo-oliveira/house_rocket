@@ -47,11 +47,11 @@ Below is a breakdown of the attributes:
 
 
 ## 4. Business Assumptions
-The assumptions about the business problem accepted in this project are as follow:
+The assumptions of the business problem in this project are as follow:
 
+* All the properties are considered options to be purchased by House Rocket Company for the **price** listed in the dataframe.
+* The duplicate **ID** values were removed and only considered the most recent buy.
 * Values of 0 in attribute **yr_renovated** are buildings that were not renovated.
-* The duplicate ID values were removed and only considered the most recent buy.
-* The attribute **price** represents the price that can potentially be bought by House Rocket Company.
 * The **location** and **condition** of the property is key for the decision on whether to buy it or not.
 * The **season** is the decisive variable for the selling of the properties.
 
