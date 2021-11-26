@@ -109,3 +109,8 @@ Create a report listing all properties with a recommended sales price for each o
 *Hypothesis 09*: The YoY (Year over Year) growth of the price of the properties is of 10%.
 
 *Hypothesis 10*: The MoM (Month over Month) growth of the price of the properties with 3 bathrooms is 15%.
+
+
+## 8. Next Steps
+
+Include more variables in the purchasing analyis, such as number of badrooms, living area, etc.
