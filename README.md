@@ -14,7 +14,7 @@ The House Rocket CEO set the following business problems:
 * Should House Rocket do a renovation to raise the sale price? What would be the suggestions for changes? What is the price increase given for each refurbishment option?
 
 ## 3 - Data Overview
-The dataset used in this project represents 21613 properties sold from May 2014 through May 2015 in King County, WA - USA. 
+The dataset used in this project represents properties sold from May 2014 through May 2015 in King County, WA - USA. 
 The dataset is available on [Kaggle - House Sales in King County, USA.](https://www.kaggle.com/harlfoxem/housesalesprediction)
 
 ![alt text](https://camo.githubusercontent.com/0c912b9ede0dbd707a80ac066851e25060a7a992e2ac25ca42f20c3c3e67135f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b6167676c652d3230424546463f7374796c653d666f722d7468652d6261646765266c6f676f3d4b6167676c65266c6f676f436f6c6f723d7768697465?raw=true)
