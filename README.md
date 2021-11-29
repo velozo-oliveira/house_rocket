@@ -63,7 +63,7 @@ The assumptions of the business problem in this project are as follow:
   <li>Collect Data from Kaggle</li>
 </ul>
 </dd>
-<strong>Step 2. Data Transformation:</strong>
+<strong>Step 2. Data Transformation</strong>
 <ul>
   <li>Variable transformation</li>
   <li>Data cleaning</li>
