@@ -94,23 +94,19 @@ Create a report listing all properties with a recommended sales price for each o
 *Hypothesis 01*: Properties that are waterfront are, in average, 30% more expensive.  
 **False**: Waterfront houses are 213% more expensive, on average.
 
-*Hypothesis 02*: Properties built before 1955 are, in average, 15% less expensive.&nbsp  
+*Hypothesis 02*: Properties built before 1955 are, in average, 15% less expensive.  
 **False**: Properties built before 1955 are 1.0 % cheaper than properties built after 1955. The year built does not influence the price of the property.
 
-*Hypothesis 03*: Properties with basement have a living area 20% bigger than the ones without basement.
-
+*Hypothesis 03*: Properties with basement have a living area 20% bigger than the ones without basement.  
 **True**: Properties with basement are approximately 20% bigger in terms of living area, compared with properties without basement.
 
-*Hypothesis 04*: Properties that were never renovated are, in average, 20% less expensive.
-
+*Hypothesis 04*: Properties that were never renovated are, in average, 20% less expensive.  
 **False**: Properties that were never renovated are, in average, 43 % less expensive
 
-*Hypothesis 05*: Properties with higher number of bedrooms are, in average, 10% more expensive.
-
+*Hypothesis 05*: Properties with higher number of bedrooms are, in average, 10% more expensive.  
 **False**: Properties with 7 to 9 bedrooms are, in avarage, more expensive.
 
-*Hypothesis 06*: The MoM (Month over Month) growth of the price of the properties with 3 bathrooms is 15%.
-
+*Hypothesis 06*: The MoM (Month over Month) growth of the price of the properties with 3 bathrooms is 15%.  
 **False**: The average price of the properties is higher between March and July.
 
 ## 8. Next Steps
