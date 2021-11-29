@@ -56,6 +56,7 @@ The assumptions of the business problem in this project are as follow:
 * The **season** is the decisive variable for the selling of the properties.
 
 ## 5. Solution Strategy
+<dd>
 <strong>Step 1. Business Analysis and Data Collection</strong>
 <ul>
   <li>Understand the business problem</li>
