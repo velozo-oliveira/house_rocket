@@ -57,15 +57,15 @@ The assumptions of the business problem in this project are as follow:
 
 ## 5. Solution Strategy
 
-### Step 1. Business Analysis and Data Collection  
+**Step 1. Business Analysis and Data Collection**  
 * Understand the business problem
 * Collect Data from Kaggle
 
-### Step 2. Data Transformation:  
+**Step 2. Data Transformation:**  
 * Variable transformation
 * Data cleaning
 
-### Step 3. Exploratory Data Analysis  
+**Step 3. Exploratory Data Analysis**  
 * Explore the data to find insights for the business team
 * Build, deploy and run a cloud application where the House Rocket CEO can do the analyses by himself reviewing the company's portfolio. 
 
@@ -74,10 +74,10 @@ Click here to launch the app: [House Rocket](https://analysis-dashboard-rocket.h
 
 ![alt text](https://camo.githubusercontent.com/d18f98a93a8ca015503870e592f96dbdf86f41048e9de1fbbbd4b2dcc7c456b1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6865726f6b752d2532333433303039382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465)
 
-### Step 4. Hypotheses Testing  
+**Step 4. Hypotheses Testing**  
 * Discover insights and trends and communicate the findings to the business team.
 
-### Step 5. Business Solutions  
+**Step 5. Business Solutions**  
 * Purchase Recommendation Report 
 
 Group the homes by area (zip code). Calculate the median price within each area. Include in the report homes that are below the median price for each area and that are in good condition. The report can be found here: [Link]
@@ -86,7 +86,7 @@ Group the homes by area (zip code). Calculate the median price within each area.
 
 Create a report listing all properties with a recommended sales price for each one. Group the homes by area (zip code) and by seasons (summer, winter, and so on). Calculate the median price within each area and season. The report can be found here: [Link]
 
-### Step 6. Conclusions
+**Step 6. Conclusions**
 
 ## 6. Hypothesis Testing
 
