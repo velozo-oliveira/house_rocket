@@ -93,7 +93,7 @@ Create a report listing all properties with a recommended sales price for each o
 
 *Hypothesis 01*: Properties that are waterfront are, in average, 30% more expensive.
 
-    **False**: Waterfront houses are 213% more expensive, on average.
+   **False**: Waterfront houses are 213% more expensive, on average.
 
 *Hypothesis 02*: Properties built before 1955 are, in average, 15% less expensive.
 
