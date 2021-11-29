@@ -56,7 +56,6 @@ The assumptions of the business problem in this project are as follow:
 * The **season** is the decisive variable for the selling of the properties.
 
 ## 5. Solution Strategy
-
 **Step 1. Business Analysis and Data Collection**  
 * Understand the business problem
 * Collect Data from Kaggle
