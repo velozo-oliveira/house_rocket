@@ -57,9 +57,11 @@ The assumptions of the business problem in this project are as follow:
 
 ## 5. Solution Strategy
 <dl>
-<dt>**Step 1. Business Analysis and Data Collection**</dt>
-</dd>* Understand the business problem</dd>
-</dd>* Collect Data from Kaggle</dd>
+<strong>Step 1. Business Analysis and Data Collection</strong>
+<ul>
+  <li>Understand the business problem</li>
+  <li>Collect Data from Kaggle</li>
+</ul>
 
 **Step 2. Data Transformation:**  
 * Variable transformation
