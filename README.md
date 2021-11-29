@@ -95,7 +95,8 @@ Group the homes by area (zip code). Calculate the median price within each area.
 Create a report listing all properties with a recommended sales price for each one. Group the homes by area (zip code) and by seasons (summer, winter, and so on). Calculate the median price within each area and season. The report can be found here: [Link]
 
 <strong>Step 6. Conclusions</strong>
-
+</dd>
+  
 ## 6. Hypothesis Testing
 
 **Hypothesis 01**: Properties that are waterfront are, in average, 30% more expensive.  
