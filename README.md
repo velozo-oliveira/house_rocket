@@ -102,7 +102,8 @@ Create a report listing all properties with a recommended sales price for each o
 <dd>
 <strong>Step 6. Conclusions</strong>
 </dd>
-  
+The dashboard, along with reports will help the business team to close the best deals in the real estate market.
+
 ## 6. Hypothesis Testing
 
 **Hypothesis 01**: Properties that are waterfront are, in average, 30% more expensive.  
