@@ -10,8 +10,7 @@ The purpose of this project is to create insights through data analysis to help 
 The House Rocket CEO set the following business problems:
 
 * What properties should we purchase and at what price?
-* After the properties are in the company's possession, what is the best time to sell them and what would the sale prices be?
-* Should House Rocket do a renovation to raise the sale price? What would be the suggestions for changes? What is the price increase given for each refurbishment option?
+* After the properties are in the company's possession, what is the best time to sell them and what would be the sale prices?
 
 ## 3 - Data Overview
 The dataset used in this project represents properties sold from May 2014 through May 2015 in King County, WA - USA. 
@@ -123,6 +122,15 @@ The dashboard, along with reports will help the business team to close the best 
 
 **Hypothesis 06**: The MoM (Month over Month) growth of the price of the properties with 3 bathrooms is 15%.  
 **False**: The average price of the properties is higher between March and July.
+
+## 7. Business Results
+As per requested by the CEO of House Rocket, two reports were created to help the business team to make decisions. The Recommandation Report indicates which properties the company should invest on. The Sales Price Report suggests the best price to sell each property in the future considering the location and seasonality. 
+
+A total of 3844 properties presented a buying price bellow the median of their zip code, and therefore were suggested as potential good buys.
+
+The sale price was calculated for two situations:
+1 - If the purchase price is greater than the area median price plus the effect of the season, then the sale price will be equal to the purchase price plus 10%.
+2 - If the purchase price is lower than the area median price plus the effect of the season, then the sale price will be equal to the purchase price plus 30%.
 
 ## 8. Next Steps
 
