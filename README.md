@@ -95,7 +95,6 @@ Create a report listing all properties with a recommended sales price for each o
 **False**: Waterfront houses are 213% more expensive, on average.
 
 *Hypothesis 02*: Properties built before 1955 are, in average, 15% less expensive.&nbsp  
-
 **False**: Properties built before 1955 are 1.0 % cheaper than properties built after 1955. The year built does not influence the price of the property.
 
 *Hypothesis 03*: Properties with basement have a living area 20% bigger than the ones without basement.
