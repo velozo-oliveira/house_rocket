@@ -62,13 +62,13 @@ The assumptions of the business problem in this project are as follow:
   <li>Understand the business problem</li>
   <li>Collect Data from Kaggle</li>
 </ul>
-
+</dd>
 <strong>Step 2. Data Transformation:</strong>
 <ul>
   <li>Variable transformation</li>
   <li>Data cleaning</li>
 </ul>
-
+</dd>
 <strong>Step 3. Exploratory Data Analysis</strong>
 <ul>
   <li>Explore the data to find insights for the business team </li>
