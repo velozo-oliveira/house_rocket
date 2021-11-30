@@ -88,7 +88,7 @@ Click here to launch the app: [House Rocket](https://analysis-dashboard-rocket.h
 </ul>
 </dd>
 <dd>
-<strong>Step 5. Business Solutions</strong> 
+<strong>Step 5. Business Results</strong> 
 <ul>
 <li>Purchase Recommendation Report</li>
 </ul>
@@ -140,7 +140,9 @@ The table below presents the estimated results for each situation:
 |2|2429|873,329,930|960,662,923|87,332,993|
 |**Total**|**3844**|**1,517,762,900**|**1,637,317,541.5**|**119,554,641.5**|
 
+## 8. Conclusions
 
-## 8. Next Steps
+
+## 9. Next Steps
 
 Include more variables in the purchasing analyis, such as number of badrooms, living area, etc.
