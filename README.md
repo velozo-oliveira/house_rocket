@@ -93,10 +93,10 @@ Click here to launch the app: [House Rocket](https://analysis-dashboard-rocket.h
 </dd>
   
 * [Purchase Recommendation Report](https://github.com/velozo-oliveira/house_rocket/blob/main/reports/report_buy.csv)  
-Group the homes by area (zip code). Calculate the median price within each area. Include in the report homes that are below the median price for each area and that are in good condition. The report can be found here: [Link]
+Group the properties by area (zip code). Calculate the median price within each area. Include in the report properties that are below the median price for each area and that are in good condition. 
 
 * [Sales Price Report](https://github.com/velozo-oliveira/house_rocket/blob/main/reports/report_sale.csv)  
-Calculate the median price within each area and season. Group the homes by area (zip code) and by seasons (summer, winter, and so on).Create a report listing all properties with a recommended sales price for each one.
+Group the properties by area (zip code) and by seasons (summer, winter, fall, spring). Calculate the median price within each area and season. Create a report listing all properties with a recommended sales price for each one. 
   
   
 <dd>
