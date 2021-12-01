@@ -86,18 +86,17 @@ Click here to launch the app: [House Rocket](https://analysis-dashboard-rocket.h
   <li>Discover insights and trends and communicate the findings to the business team</li>
 </ul>
 </dd>
+
 <dd>
 <strong>Step 5. Business Results</strong> 
 <ul>
-  
-<li>Purchase Recommendation Report</li>
-</ul>
 </dd>
+* Purchase Recommendation Report
 Group the homes by area (zip code). Calculate the median price within each area. Include in the report homes that are below the median price for each area and that are in good condition. The report can be found here: [Link]
 
 * Sales Price Report
-
 Create a report listing all properties with a recommended sales price for each one. Group the homes by area (zip code) and by seasons (summer, winter, and so on). Calculate the median price within each area and season. The report can be found here: [Link]
+  
 <dd>
 <strong>Step 6. Conclusions</strong>
 </dd>
