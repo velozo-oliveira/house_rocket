@@ -128,8 +128,8 @@ As per requested by the CEO of House Rocket, two reports were created to help th
 A total of 3844 properties presented a buying price bellow the median of their zip code, and therefore were suggested as potential good buys.
 
 The sale price was calculated for two situations:  
-1 - If the purchase price is greater than the area median price plus the effect of the season, then the sale price will be equal to the purchase price plus 5%.  
-2 - If the purchase price is lower than the area median price plus the effect of the season, then the sale price will be equal to the purchase price plus 10%.
+1 - If the purchase price is greater than the area median price plus the effect of the season, the sale price will be equal to the purchase price plus 5%.  
+2 - If the purchase price is lower than the area median price plus the effect of the season, the sale price will be equal to the purchase price plus 10%.
 
 The table below presents the estimated results for each situation:
 
@@ -140,7 +140,7 @@ The table below presents the estimated results for each situation:
 |**Total**|**3844**|**1,517,762,900**|**1,637,317,541.5**|**119,554,641.5**|
 
 ## 8. Conclusions
-
+Overall, House Rocket was a great project to practice the basics concepts of Data Analysis. 
 
 ## 9. Next Steps
 
