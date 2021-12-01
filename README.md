@@ -140,7 +140,7 @@ The table below presents the estimated results for each situation:
 |**Total**|**3844**|**1,517,762,900**|**1,637,317,541.5**|**119,554,641.5**|
 
 ## 8. Conclusions
-Overall, House Rocket was a great study project to practice the basics concepts of data analysis. Guided by my mentor Meigarom Lopes, I was able to explore and manipulate the data set using Python.
+Overall, House Rocket was a great study project to practice the basics concepts of data analysis. Guided by my mentor Meigarom Lopes, I was able to explore and manipulate the data set using Python. As a result, a profit 
 
 ## 9. Next Steps
 
