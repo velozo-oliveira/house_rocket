@@ -140,8 +140,5 @@ The table below presents the estimated results for each situation:
 |**Total**|**3844**|**1,517,762,900**|**1,637,317,541.5**|**119,554,641.5**|
 
 ## 8. Conclusions
-Overall, House Rocket was a great study project to practice the basics concepts of data analysis. Guided by my mentor Meigarom Lopes, I was able to explore and manipulate the data set using Python. As a result, a profit 
+Overall, House Rocket was a great study project to practice the basics concepts of data analysis. Guided by my mentor Meigarom Lopes, I was able to explore and manipulate the data set using Python. The business problem was solved using a superficial approach, but enough to add value to the company. The next step would include more variables in the purchasing and selling analyis, such as number of badrooms, living area, and potentially adding features to ensure the property valuation would increase. 
 
-## 9. Next Steps
-
-The business problem was solved using a superficial approach. The next step would include more variables in the purchasing and selling analyis, such as number of badrooms, living area, etc. There are  factors that
