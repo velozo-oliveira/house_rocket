@@ -89,6 +89,7 @@ Click here to launch the app: [House Rocket](https://analysis-dashboard-rocket.h
 <dd>
 <strong>Step 5. Business Results</strong> 
 <ul>
+  
 <li>Purchase Recommendation Report</li>
 </ul>
 </dd>
